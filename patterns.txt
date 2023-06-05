@@ -1,0 +1,8 @@
+DTO - Data Transfer Object
+
+Object that has only properties, used to trasport data through the application's layers
+
+
+
+
+
