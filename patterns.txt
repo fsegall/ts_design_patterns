@@ -1,6 +1,11 @@
 DTO - Data Transfer Object
 
-Object that has only properties, used to trasport data through the application's layers
+    Object that has only properties, used to trasport data through the application's layers
+
+Repository 
+
+    Persists aggregates (Clusters of domain objects such as entities and value objects) taking this responsibility from the application.
+
 
 
 

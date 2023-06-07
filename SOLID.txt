@@ -1,3 +1,8 @@
 SRP - Single Responsibility Principle
 
 We should separate things that change for different reasons
+
+DIP - Dependency inversion Principle
+
+High level components should not depend on low level components. They should depend on abstractions.
+
