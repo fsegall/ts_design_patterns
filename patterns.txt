@@ -6,8 +6,10 @@ Repository
 
     Persists aggregates (Clusters of domain objects such as entities and value objects) taking this responsibility from the application.
 
+Adapter
 
+    It converts the interface of a class into one expected by the client allowing classes with different interfaces to work together.    
 
+Strategy
 
-
-
+    

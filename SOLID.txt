@@ -1,8 +1,12 @@
 SRP - Single Responsibility Principle
 
-We should separate things that change for different reasons
+    We should separate things that change for different reasons
 
 DIP - Dependency inversion Principle
 
-High level components should not depend on low level components. They should depend on abstractions.
+    High level components should not depend on low level components. They should depend on abstractions.
+
+OCP - Open/Closed Principle
+
+    Closed for modification, open for extension. Create extension points to avoid source code modification and bugs. 
 
